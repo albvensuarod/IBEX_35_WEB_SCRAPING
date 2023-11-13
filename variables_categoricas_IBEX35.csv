@@ -1,0 +1,36 @@
+Empresa;Industria;Sector;Empleados;Tipo de Accion
+Acciona S.A. (ANA) ;Construcción e ingeniería;Industriales;53847;ORD
+Acerinox S.A. (ACX) ;Metales y minería;Materiales básicos;8315;ORD
+Actividades de Construcción y Servicios S.A. (ACS) ;Construcción e ingeniería;Industriales;-;ORD
+AENA SME S.A. (AENA) ;Infraestructura de transporte;Industriales;8532;ORD
+Amadeus IT Holding S.A. (AMA) ;Software y servicios informáticos;Tecnología;17805;ORD
+ArcelorMittal S.A. (MTS) ;Metales y minería;Materiales básicos;154352;ORD
+Banco Santander S.A. (SAN) ;Servicios bancarios;Financiero;212409;ORD
+Bankinter S.A. (BKT) ;Servicios bancarios;Financiero;6460;ORD
+Banco Bilbao Vizcaya Argentaria SA (BBVA) ;Servicios bancarios;Financiero;115675;ORD
+Banco de Sabadell SA (SABE) ;Servicios bancarios;Financiero;19405;ORD
+CaixaBank S.A. (CABK) ;Servicios bancarios;Financiero;44683;ORD
+Cellnex Telecom S.A. (CLNX) ;Servicios de telecomunicaciones;Tecnología;3015;ORD
+Enagás S.A. (ENAG) ;Equipos y servicios relacionados con el petróleo y el gas;Energía;1328;ORD
+Endesa S.A. (ELE) ;Compañías eléctricas y PPI;Suministros;9271;ORD
+Fluidra S.A. (FLUI) ;Productos de ocio;Consumo cíclico;6855;ORD
+Siemens Gamesa Renewable Energy S.A. (SGREN) ;Energía renovable;Energía;9379;ORD
+Naturgy Energy Group S.A. (NTGY) ;Suministro de gas natural;Suministros;7090;ORD
+Grifols S.A. (GRLS) ;Productos farmacéuticos;Salud;23631;ORD
+Ferrovial S.A. (FER) ;Construcción e ingeniería;Industriales;24031;ORD
+Iberdrola S.A. (IBE) ;Compañías eléctricas y PPI;Suministros;40000;ORD
+Industria de Diseno Textil SA (ITX) ;Minoristas especializados;Consumo cíclico;119033;ORD
+Indra Sistemas S.A. (IDR) ;Software y servicios informáticos;Tecnología;56849;ORD
+Inmobiliaria Colonial S.A. (COL) ;REIT residenciales y comerciales;Inmobiliaria;243;ORD
+International Consolidated Airlines Group S.A. (ICAG) ;Servicios de transporte de pasajeros;Industriales;68477;ORD
+Logista (LOG) ;Servicios de carga y logística;Industriales;5341;ORD
+Mapfre S.A. (MAP) ;Seguros;Financiero;30918;ORD
+Meliá Hotels International S.A. (MEL) ;Hoteles y servicios de ocio;Consumo cíclico;17964;ORD
+Merlin Properties Socimi S.A. (MRL) ;REIT residenciales y comerciales;Inmobiliaria;256;ORD
+Obrascon Huarte Lain SA (OHLA) ;Construcción e ingeniería;Industriales;19953;ORD
+Redeia Corporacion SA (REDE) ;Compañías eléctricas y PPI;Suministros;2456;ORD
+Repsol S.A. (REP) ;Gas de petróleo;Energía;24099;ORD
+Sacyr SA (SCYR) ;Construcción e ingeniería;Industriales;46552;ORD
+SOLARIA ENERGIA Y MEDIO AMBIENTE (SLRS) ;Compañías eléctricas y PPI;Suministros;230;ORD
+Telefónica S.A. (TEF) ;Servicios de telecomunicaciones;Tecnología;103968;ORD
+Unicaja Banco SA (UNI) ;Servicios bancarios;Financiero;8790;ORD
